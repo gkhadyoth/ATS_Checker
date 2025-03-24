@@ -2,29 +2,34 @@
 
 ## This is the file structure to work this on Local PCs
 
-ats_resume_filter/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-│
-├── data/
-│   ├── sample_resume.pdf                                                                    # Or .docx (actual resume file)
-│   └── sample_jd.txt (Will work on URL if text format starts executing properly)            # Job description in plain text
-│
-├── parsers/
-│   ├── __init__.py
-│   ├── resume_parser.py
-│   └── jd_parser.py
-│
-├── matcher/
-│   ├── __init__.py
-│   └── ats_matcher.py
-│
-├── enhancer/
-│   ├── __init__.py
-│   └── suggestion_engine.py
-│
-├── utils/
-│   ├── __init__.py
-│   └── text_cleaning.py
+graph TD
+    A[main.py] --> B[Resume Parser]
+    A --> C[Job Description Parser]
+    B --> D[Resume Text]
+    C --> E[JD Text]
+    D --> F[ATS Matcher]
+    E --> F
+    F --> G[Match Score & Relevant Sections]
+    G --> H[Enhancer: Suggestion Engine]
+    H --> I[Suggested Resume Enhancements]
+
+    subgraph parsers
+        B[resume_parser.py]
+        C[jd_parser.py]
+    end
+
+    subgraph matcher
+        F[ats_matcher.py]
+    end
+
+    subgraph enhancer
+        H[suggestion_engine.py]
+    end
+
+    subgraph utils
+        J[text_cleaning.py]
+    end
+
+    style A fill:#f9f,stroke:#333,stroke-width:1px
+    style I fill:#bbf,stroke:#333,stroke-width:1px
+
