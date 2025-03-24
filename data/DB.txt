@@ -1,0 +1,30 @@
+# Job Title:
+Data Engineer – Worldwide Delivery Experience
+
+# Job Summary:
+At Amazon, we aim to be the most customer-centric company on Earth. The Worldwide Delivery Experience (DEX) team is innovating delivery speed initiatives to ensure Amazon remains synonymous with fast delivery in the minds of our customers. We are seeking an experienced Data Engineer to help build scalable solutions that enhance delivery operations and enable high-impact business decision-making.
+
+As a Data Engineer, you will design and develop infrastructure to support data reporting, planning, and control activities. You will create and optimize ETL pipelines, manage large datasets from diverse sources, and integrate internal systems with partner tools. You will collaborate with engineers, analysts, and business leaders to ensure data is efficiently modeled, governed, and utilized.
+
+# Responsibilities:
+
+Design, implement, and support scalable analytical infrastructure for large datasets.
+Build and maintain robust ETL processes across multiple platforms and tools.
+Develop and manage data pipelines to support reporting and operational metrics.
+Integrate in-house systems with third-party infrastructure to enable seamless data flow.
+Monitor data integrity using automated alerting and dashboards.
+Collaborate with cross-functional teams including architects, engineers, scientists, and analysts.
+Continuously improve reporting and analytics processes, enabling self-service where possible.
+Stay current with emerging technologies to enhance data management and processing efficiency.
+# Qualifications:
+Basic Qualifications:
+
+3+ years of data engineering experience.
+Experience with data modeling, data warehousing, and building ETL pipelines.
+Preferred Qualifications:
+
+Proficiency with AWS services such as Redshift, S3, AWS Glue, EMR, Kinesis, Firehose, Lambda, and IAM.
+Experience with non-relational databases and data stores (e.g., object storage, document or key-value stores, graph databases, column-family databases).
+Strong verbal and written communication skills.
+Ability to work independently and deliver results in a fast-paced environment.
+Experience collaborating in highly technical teams and delivering high-quality scalable solutions.

@@ -1,0 +1,28 @@
+# Job Title:
+Software Development Engineer Intern
+
+# Job Summary:
+Amazon is seeking curious, visionary, and innovative individuals to join its Software Development Engineer Internship program. As an intern at Amazon, you will work on real-world projects, develop cutting-edge software solutions, and be mentored by experienced engineers. This internship provides a unique opportunity to contribute to impactful projects while gaining personal and professional growth.
+
+# Responsibilities:
+
+Collaborate with cross-disciplinary teams to design and develop innovative products and services.
+Build scalable and fault-tolerant systems in a distributed computing environment.
+Create solutions for running predictions on distributed systems using modern technologies.
+Develop distributed storage, indexing, and querying systems that are efficient and easy to use.
+Solve broadly defined problems by designing and coding effective solutions.
+Work in an agile environment to deliver high-quality software.
+# Qualifications:
+Basic Qualifications:
+
+Enrolled in a Bachelor’s degree or higher in Computer Science, Computer Engineering, or related fields.
+Knowledge of computer science fundamentals (e.g., object-oriented design, operating systems, algorithms, data structures, complexity analysis).
+Proficiency in at least one programming language such as Java, Python, C++, or C# with object-oriented design.
+Ability to commit to a full-time (40 hours/week) internship for up to 12 weeks.
+Expected graduation between October 2025 and September 2028.
+Preferred Qualifications:
+
+Enrollment in a co-op program.
+Additional programming experience in languages such as Perl.
+Familiarity with distributed systems, algorithms, and relational databases.
+Internship, academic, or project experience in areas such as OS internals, storage systems, resource management, search, or performance engineering.
