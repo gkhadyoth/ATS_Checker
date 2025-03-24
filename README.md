@@ -1,6 +1,6 @@
 # ATS_Checker
 
-## This is the file structure to work this on Local PCs
+> This is the file structure to work this on Local PCs (Open to understand)
 
 ats_resume_filter/
 │
