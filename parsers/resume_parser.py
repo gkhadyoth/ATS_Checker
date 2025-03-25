@@ -45,7 +45,7 @@ def parse_resume(filepath):
     
     return {
         "name": "Candidate",
-        "Skills": skills,
+        "skills": skills,
         "experience": experience,
         "education": "Auto-extraction not yet implemented"
     }

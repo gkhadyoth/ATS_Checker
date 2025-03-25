@@ -1,0 +1,60 @@
+# Job Title:
+Software Engineer
+
+# Job Summary:
+Northwood is seeking a versatile and innovative Software Engineer to join our team and help design, implement, and optimize global services that deliver high-performance connectivity to our customers. This role involves ownership of core system areas—ranging from ground station control systems to customer-facing APIs—and offers the opportunity to work across multiple domains in a full-stack, highly technical environment.
+
+Ideal candidates will enjoy solving complex technical problems and thrive in a fast-paced, multidisciplinary team setting where they can dive deep into both hardware-level control and large-scale distributed systems.
+
+# Responsibilities:
+
+Design and develop control systems for ground station hardware interacting with embedded devices and RF modems.
+
+Architect and optimize high-bandwidth data pipelines for global data movement and SD-WAN capabilities.
+
+Design distributed systems and cloud orchestration frameworks to support global ground network operations.
+
+Build robust APIs, intuitive front-end interfaces, and scalable data backends.
+
+Develop and implement monitoring and alerting tools for software and infrastructure uptime.
+
+Transform telemetry into actionable insights using predictive diagnostics and real-time data visibility.
+
+Support global infrastructure and CI/CD pipelines for secure and reliable deployments.
+
+Develop production line testing and automation tools to ensure system reliability and performance.
+
+Create simulations for satellite networks and design orchestration software for global antenna systems.
+
+# Qualifications:
+Basic Qualifications:
+
+1+ years of professional software development experience (internships, projects, or personal work also considered).
+
+Bachelor’s degree in Computer Science, Engineering, Math, or a related field (or equivalent experience).
+
+Preferred Qualifications:
+
+Proficiency in one or more programming languages: Rust, Golang, Haskell, C/C++ (or others suited to distributed systems and HPC).
+
+Experience with distributed systems design and cloud platforms (AWS, Azure, GCP).
+
+Familiarity with microservices architecture, serverless computing, and cloud orchestration.
+
+Experience interacting with hardware, FPGAs, and embedded systems (e.g., FreeRTOS, Zephyr).
+
+Strong networking knowledge and experience with high-speed communications (10GigE+).
+
+Proficiency with RESTful APIs and modern front-end frameworks (React, Angular, etc.).
+
+Experience with monitoring tools (Prometheus, Grafana, ELK) and alerting systems.
+
+Knowledge of Infrastructure as Code tools (Terraform, Ansible) and CI/CD (Jenkins, GitLab).
+
+Familiarity with relational (PostgreSQL, MySQL) and time-series (InfluxDB, TimescaleDB) databases.
+
+Experience building simulations and orchestration engines for distributed physical or software systems.
+
+Strong communication, collaboration, and problem-solving skills.
+
+Comfortable working in a fast-paced, highly technical, and evolving environment.

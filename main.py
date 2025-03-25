@@ -20,5 +20,9 @@ if __name__ == "__main__":
     print("Match Score:", score)
     print("\nSuggestions:")
     for s in suggestions:
-        print("-", s)
+        print("\n-", s)
+    
+   # print("Resume skills:", resume_data["skills"])
+   # print("JD skills:", jd_data["skills_required"])
+
 
