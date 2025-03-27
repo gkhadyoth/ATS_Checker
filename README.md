@@ -28,3 +28,10 @@ ats_resume_filter/
 ├── utils/
 │   ├── __init__.py
 │   └── text_cleaning.py
+│   └── skills_list.py
+
+<hr>
+
+# Features:
+Currently working on .txt format of job descriptions. Have to work on URL form of Job Descriptions.
+
