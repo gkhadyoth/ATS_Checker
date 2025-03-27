@@ -28,3 +28,5 @@ ats_resume_filter/
 ├── utils/
 │   ├── __init__.py
 │   └── text_cleaning.py
+│   └── skills_list.py
+
