@@ -1,0 +1,46 @@
+# Job Title:
+Frontend Developer
+
+# Job Summary:
+We are looking for a motivated and detail-oriented Web Developer to join our team. In this role, you will contribute to the development of robust and scalable web applications using Python, Flask, JavaScript, React, and related technologies. You will participate in the full software development lifecycle, from planning and coding to testing and documentation, while collaborating with a dynamic and skilled engineering team.
+
+# Responsibilities:
+
+Collaborate with the team to design and develop high-quality web applications using Python, Flask, JavaScript, Node, and React.
+
+Write clean, maintainable, and reusable code.
+
+Conduct code reviews to ensure consistency and quality.
+
+Perform unit and integration testing to verify application reliability.
+
+Create and maintain comprehensive technical documentation.
+
+Contribute to project planning, estimation, and prioritization activities.
+
+Stay updated with the latest advancements in Python and JavaScript development.
+
+# Qualifications:
+Required:
+
+Hands-on experience with Python 3 and/or JavaScript (ES6).
+
+Good understanding of the software development and testing lifecycle.
+
+Familiarity with relational and non-relational databases (e.g., MySQL, PostgreSQL, MongoDB).
+
+Experience using version control systems like Git.
+
+Preferred:
+
+Master’s Degree in Computer Science, Software Engineering, or related field.
+
+0–1 year professional experience developing Python web applications with Flask or Django.
+
+0–1 year professional experience in JavaScript development with React or Node.js.
+
+Experience building RESTful APIs using Python or Node.js.
+
+Knowledge of frameworks such as Flask or Express.js.
+
+Familiarity with cloud platforms, particularly AWS.
