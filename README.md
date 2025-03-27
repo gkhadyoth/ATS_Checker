@@ -32,5 +32,6 @@ ats_resume_filter/
 
 <hr>
 
-Features:
+# Features:
+Currently working on .txt format of job descriptions. Have to work on URL form of Job Descriptions.
 
