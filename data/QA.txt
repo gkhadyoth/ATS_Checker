@@ -1,0 +1,50 @@
+# Job Title:
+Test Engineer
+
+# Job Summary:
+We are seeking a detail-oriented and innovative Wireless Test Engineer to ensure the quality, performance, and reliability of our wireless products and accessories. In this role, you will be responsible for designing and executing both manual and automated test plans, identifying and mitigating system issues, and supporting development teams in delivering robust products.
+
+# Responsibilities:
+
+Ensure that electronic assemblies and finished products meet functional test specifications and quality standards.
+
+Design, develop, and maintain automated test frameworks and scripts using Python.
+
+Create comprehensive test plans, design test cases, and execute manual and automated tests.
+
+Identify, analyze, and report defects and performance issues in software and firmware.
+
+Collaborate with developers to define requirements and test strategies to ensure quality.
+
+Conduct performance testing under various load conditions.
+
+Detect and address security vulnerabilities in embedded systems and applications.
+
+Provide Tier 2 technical support to internal and external stakeholders.
+
+# Qualifications:
+Required:
+
+BS or MS in Engineering with 0–2 years of experience in test engineering or product development.
+
+Minor or double-major in Computer Science with proficiency in Python scripting.
+
+Strong knowledge of analog or RF circuit analysis, electronic theory, and test instrumentation.
+
+Hands-on experience with component-level electronic troubleshooting.
+
+Experience in developing and implementing test strategies.
+
+Familiarity with tools such as VS Code, Git, Jira, J-Flash, or Simplicity Studio.
+
+Understanding of wireless technologies, especially 900MHz ISM band and Bluetooth.
+
+Excellent written and verbal communication skills.
+
+Ability to work effectively within cross-functional teams.
+
+Self-starter with strong problem-solving skills and creativity.
+
+Preferred:
+
+Supervisory, management, or project management experience.
