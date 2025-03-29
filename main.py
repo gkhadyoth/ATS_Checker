@@ -23,6 +23,6 @@ if __name__ == "__main__":
         print("\n-", s)  
     
    # print("Resume skills:", resume_data["skills"])
-   # print("JD skills:", jd_data["skills_required"])
+   # print("JD skills:", jd_data["skills_required"]) clone
 
 
